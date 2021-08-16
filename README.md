@@ -1,16 +1,4 @@
-# Maize yield prediction at an early developmental stage using multispectral imagery and genotype data
+# Crop early yield prediction using multimodal deep learning model
 
-Repository with the code for predicting the yield of crop varieties using deep learning and early phenotype data publised in this paper: 
-
-
-
-
-
-
-
-
-
-
-
-
+Deep learning model based on a spectral module (with resnet18 backbone for image data) and a DNN module (for extracting features of the tabular data comprising genotype information and crop management metadata).
 
